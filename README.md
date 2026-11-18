@@ -82,8 +82,3 @@ vinculamos HTML (visual), JavaScript (lógica) y CSS (estilos).
         color: pink;
     }
 ```
-
-
-git add . 
-git commit -m "feat: Subiendo archivos"
-git push
