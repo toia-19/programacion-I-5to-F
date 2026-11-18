@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tabla {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 1;
+}
+
+.titulo {
+    color: pink;
+}
